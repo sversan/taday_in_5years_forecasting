@@ -1,0 +1,4 @@
+/your_project_directory
+    /templates
+        index.html
+    app.py
